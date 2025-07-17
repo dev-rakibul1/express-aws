@@ -82,7 +82,7 @@ let users = [
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Welcome to the API!')
+  res.send('Welcome to the API! and Welcome from BPS.')
 })
 
 // Get all users
